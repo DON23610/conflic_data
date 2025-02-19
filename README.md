@@ -1,2 +1,2 @@
 # conflic_data
-All Municipalities  of Rajasthan 
+All Municipalities  of Rajasthan
